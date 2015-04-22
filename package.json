@@ -1,6 +1,6 @@
 {
   "name": "dd-jasmine-flight",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/jasmine-flight.js",
   "files": [
     "lib/jasmine-flight.js"
